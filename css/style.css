@@ -99,16 +99,20 @@ div#space {
 /** Texto build feactures ideas*/
 
 .col-lg-4.mr-auto.aos-init.aos-animate {
-    margin-top: 28%;
+    position: absolute;
+    margin-top: 5%;
+    float: inherit;
 }
 
 
 /* imagen flecha header*/
 
 img.flecha {
-    margin-left: -143%;
-    margin-top: 23%;
-    width: 94%;
+    float: left;
+    position: absolute;
+    margin-left: -95%;
+    margin-top: 21%;
+    width: 60%;
 }
 
 img.flechaportafolio {
@@ -116,6 +120,21 @@ img.flechaportafolio {
     float: left;
     margin-left: -58%;
     margin-top: -28%;
+}
+
+img.flechaDrecha {
+    width: 87%;
+    float: right;
+    margin-top: -80%;
+    margin-right: -109%;
+}
+
+img.flechapartner {
+    width: 35%;
+    float: right;
+    margin-right: -54%;
+    position: relative;
+    margin-top: -14%;
 }
 
 
@@ -142,6 +161,28 @@ img.iconporta {
 
 hr.line_midtle {
     width: 74%;
+}
+
+img.imgFooter {
+    float: left;
+    width: 11%;
+    margin-top: 2%;
+    margin-left: 9%;
+}
+
+
+/** Title abot us**/
+
+h1.title_home {
+    font-size: 194%;
+}
+
+
+/** text above title */
+
+p.mb-5 {
+    color: white;
+    font-size: 88%;
 }
 
 h1,
