@@ -1739,4 +1739,8 @@ h3#linktitle {
         position: relative;
         margin-top: -14%;
     }
+    div#Text_footer {
+        margin-left: 9%;
+        position: absolute;
+    }
 }
