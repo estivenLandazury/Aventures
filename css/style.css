@@ -29,9 +29,17 @@ div#image {
 }
 
 .bg-light {
-    background-image: url("https://t4.ftcdn.net/jpg/01/39/80/43/240_F_139804300_Kuf2o2DUvb59wibGAsS0ml4BazgXouqy.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    padding: 7em 0;
+    background: rgba(33, 0, 61, 1);
+    background: -moz-linear-gradient(left, rgba(33, 0, 61, 1) 0%, rgba(33, 0, 61, 1) 16%, rgba(249, 35, 106, 1) 99%, rgba(240, 47, 23, 1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(33, 0, 61, 1)), color-stop(16%, rgba(33, 0, 61, 1)), color-stop(99%, rgba(249, 35, 106, 1)), color-stop(100%, rgba(240, 47, 23, 1)));
+    background: -webkit-linear-gradient(left, rgba(33, 0, 61, 1) 0%, rgba(33, 0, 61, 1) 16%, rgba(249, 35, 106, 1) 99%, rgba(240, 47, 23, 1) 100%);
+    background: -o-linear-gradient(left, rgba(33, 0, 61, 1) 0%, rgba(33, 0, 61, 1) 16%, rgba(249, 35, 106, 1) 99%, rgba(240, 47, 23, 1) 100%);
+    background: -ms-linear-gradient(left, rgba(33, 0, 61, 1) 0%, rgba(33, 0, 61, 1) 16%, rgba(249, 35, 106, 1) 99%, rgba(240, 47, 23, 1) 100%);
+    background: linear-gradient(to right, rgba(33, 0, 61, 1) 0%, rgba(33, 0, 61, 1) 16%, rgba(249, 35, 106, 1) 99%, rgba(240, 47, 23, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#21003d', endColorstr='#f02f17', GradientType=1);
 }
 
 h3.h3ele {
@@ -49,6 +57,11 @@ div#border {
     border-color: #cb1b61;
     border-bottom: solid 1px;
     border-bottom-color: #c3b8b8;
+}
+
+/* color del texto del footer*/
+p#footerP {
+    color: white;
 }
 
 ::-moz-selection {
@@ -71,6 +84,42 @@ a {
 a:hover {
     text-decoration: none;
 }
+
+
+/** spacio entre el footeer y servicios*/ 
+div#space {
+    margin-top: 8%;
+}
+
+
+/** Texto build feactures ideas*/
+.col-lg-4.mr-auto.aos-init.aos-animate {
+    margin-top: 28%;
+}
+
+
+
+/* imagen flecha header*/
+img.flecha {
+    margin-left: -143%;
+    margin-top: 23%;
+    width: 94%;
+}
+
+img.flechaportafolio {
+    width: 45%;
+    float: left;
+    margin-left: -58%;
+    margin-top: -28%;
+}
+
+
+/** border solid portafolio*/
+div#container2 {
+    border-right: solid;
+    border-color: #e31f65;
+}
+
 
 h1,
 h2,
