@@ -8,19 +8,6 @@ body {
     overflow-x: hidden;
 }
 
-
-/** Imagen partner carvajal */
-
-img.image1 {
-    width: 55%;
-}
-
-img.image2 {
-    width: 42%;
-    margin-left: -49%;
-    margin-top: -9%;
-}
-
 div#image {
     margin-left: 12%;
 }
@@ -51,6 +38,8 @@ h3.h3ele {
 p.paraf {
     color: #20003d;
     text-align: center;
+    width: 89%;
+    margin-left: 5%;
 }
 
 div#border {
@@ -126,7 +115,7 @@ img.flechaDrecha {
     width: 87%;
     float: right;
     margin-top: -80%;
-    margin-right: -109%;
+    margin-right: -127%;
 }
 
 img.flechapartner {
@@ -150,10 +139,10 @@ div#container2 {
 
 img.iconporta {
     /* text-align: center; */
-    width: 32%;
+    width: 25%;
     margin-top: 5%;
     /* align-content: center; */
-    margin-left: 28%;
+    margin-left: 36%;
 }
 
 
@@ -184,6 +173,84 @@ p.mb-5 {
     color: white;
     font-size: 88%;
 }
+
+
+/** text ahover  antes de partners**/
+
+p.category {
+    margin-top: 42%;
+    margin-left: -3%;
+}
+
+span.category {
+    top: 51%;
+    position: absolute;
+    margin-left: -3%;
+    font-weight: bold;
+    font-size: 138%;
+}
+
+
+/**  end  text ahover  antes de partners**/
+
+
+/** text  abive skill the team**/
+
+p.Skill {
+    text-align: center;
+    color: #0b0c0c;
+    font-weight: bold;
+    font-size: 134%;
+}
+
+
+/** end  text  abive skill the team**/
+
+
+/** iconos y texto de how it work **/
+
+p#iteraction {
+    margin-top: 9%;
+}
+
+p#preparation {
+    margin-top: 8%;
+}
+
+p#launch {
+    margin-top: 11%;
+}
+
+p#invesment {
+    margin-top: 10%;
+}
+
+p#folow {
+    margin-top: 10%;
+}
+
+img#icon_iteraction {
+    margin-top: 10%;
+}
+
+img#icon_preparation {
+    margin-top: 11%;
+}
+
+img#icon_folow {
+    margin-top: 9%;
+}
+
+img#icon_launch {
+    margin-top: 9%;
+}
+
+img#icon_invesment {
+    margin-top: 6%;
+}
+
+
+/**  end iconos y texto de how it work **/
 
 h1,
 h2,
