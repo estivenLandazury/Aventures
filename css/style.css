@@ -12,6 +12,13 @@ div#image {
     margin-left: 12%;
 }
 
+p.paragraf_corousel {
+    text-align: justify;
+    /* margin: 0%; */
+    margin-right: 4%;
+    font-size: 87%;
+}
+
 .col-md-3.ml-auto {
     border-left: solid;
 }
