@@ -1572,6 +1572,9 @@ h3#linktitle {
     img.flechaportafolio {
         display: none;
     }
+    .process.p-3 {
+        margin-left: 23%;
+    }
 }
 
 @media screen and (max-width:360px) {
@@ -1639,7 +1642,7 @@ h3#linktitle {
         width: 25%;
         margin-top: 5%;
         /* align-content: center; */
-        margin-left: 0%;
+        margin-left: -2% !important;
     }
     div#list_process {
         display: inline-block;
@@ -1653,6 +1656,12 @@ h3#linktitle {
         height: 97%;
         border-radius: 36%;
         margin-top: 4%;
+    }
+    .row.row-grid {
+        margin-left: 4% !important;
+    }
+    img.partner {
+        width: 65%;
     }
     /** Fin de Ajustes para resolver la configuración de la resolución 1920 px**/
 }
@@ -1725,6 +1734,34 @@ h3#linktitle {
     img.flechaportafolio {
         display: none;
     }
+    /**  Ajustes para resolver la configuración de la resolución 1920 px**/
+    img.partner {
+        width: 65%;
+    }
+    .row.row-grid {
+        margin-left: 4% !important;
+    }
+    div#list_process {
+        display: inline-block;
+        width: 82%;
+        margin-left: 12%;
+    }
+    .service1 {
+        /* padding: 4rem; */
+        /* padding: 4rem; */
+        background: #f1c7e8;
+        height: 97%;
+        border-radius: 36%;
+        margin-top: 4%;
+    }
+    img.iconporta {
+        /* text-align: center; */
+        width: 25%;
+        margin-top: 5%;
+        /* align-content: center; */
+        margin-left: -2% !important;
+    }
+    /** Fin de Ajustes para resolver la configuración de la resolución 1920 px**/
 }
 
 @media screen and (max-width:768px) {
@@ -1801,6 +1838,9 @@ h3#linktitle {
     }
     .row.row-grid {
         margin-left: 33%;
+    }
+    img.partner {
+        width: 65%;
     }
     /** Fin de Ajustes para resolver la configuración de la resolución 1920 px**/
 }
