@@ -1575,18 +1575,6 @@ h3#linktitle {
 }
 
 @media screen and (max-width:360px) {
-    img.image1 {
-        width: 80%;
-        margin-left: -7%;
-    }
-    img.image2 {
-        width: 85%;
-        margin-left: -7%;
-        margin-top: -12%;
-    }
-    .row {
-        text-align: center;
-    }
     .col-lg-6.mb-5 {
         text-align: center;
         margin-top: -38%;
@@ -1607,6 +1595,66 @@ h3#linktitle {
     img.flechaportafolio {
         display: none;
     }
+    /** Ajustes para resolver la configuración de la resolución 1920 px**/
+    div#Text_footer {
+        position: unset !important;
+    }
+    img.flecha {
+        float: left;
+        display: none;
+    }
+    .col-lg-4.mr-auto.aos-init.aos-animate {
+        position: unset !important;
+        margin-top: 47%;
+        float: inherit;
+    }
+    p.mb-5 {
+        /* justify-content: left; */
+        text-align: justify;
+        margin: 6%;
+    }
+    p.paragraf_corousel {
+        text-align: justify;
+        margin: 6%;
+    }
+    .list-unstyled {
+        padding-left: 0;
+        margin-left: 14%;
+        text-align: justify;
+        list-style: none;
+    }
+    img.imgFooter {
+        margin-top: -1%;
+    }
+    p.paraf {
+        /* text-align: justify; */
+        color: #20003d;
+        text-align: center;
+        font-size: 79%;
+        width: 89%;
+        margin-left: 5%;
+    }
+    img.iconporta {
+        /* text-align: center; */
+        width: 25%;
+        margin-top: 5%;
+        /* align-content: center; */
+        margin-left: 0%;
+    }
+    div#list_process {
+        display: inline-block;
+        width: 82%;
+        margin-left: 12%;
+    }
+    .service1 {
+        /* padding: 4rem; */
+        /* padding: 4rem; */
+        background: #f1c7e8;
+        height: 97%;
+        border-radius: 36%;
+        margin-top: 4%;
+    }
+    /** Fin de Ajustes para resolver la configuración de la resolución 1920 px**/
 }
 
 @media screen and (max-width:375px) {
@@ -1703,6 +1751,58 @@ h3#linktitle {
     img.flechaportafolio {
         display: none;
     }
+    /** Ajustes para resolver la configuración de la resolución 1920 px */
+    div#Text_footer {
+        position: unset !important;
+    }
+    img.flecha {
+        float: left;
+        display: none;
+    }
+    .col-lg-4.mr-auto.aos-init.aos-animate {
+        position: unset !important;
+        margin-top: 47%;
+        float: inherit;
+    }
+    p.mb-5 {
+        /* justify-content: left; */
+        text-align: justify;
+        margin: 6%;
+    }
+    p.paragraf_corousel {
+        text-align: justify;
+        /* margin: 0%; */
+        margin-right: 4%;
+        font-size: 87%;
+    }
+    .list-unstyled {
+        padding-left: 0;
+        margin-left: 14%;
+        text-align: justify;
+        list-style: none;
+    }
+    img.imgFooter {
+        margin-top: -1%;
+    }
+    p.paraf {
+        /* text-align: justify; */
+        color: #20003d;
+        text-align: center;
+        font-size: 76%;
+        width: 89%;
+        margin-left: 5%;
+    }
+    img.iconporta {
+        /* text-align: center; */
+        width: 25%;
+        margin-top: 5%;
+        /* align-content: center; */
+        margin-left: 41%;
+    }
+    .row.row-grid {
+        margin-left: 33%;
+    }
+    /** Fin de Ajustes para resolver la configuración de la resolución 1920 px**/
 }
 
 
@@ -1742,5 +1842,12 @@ h3#linktitle {
     div#Text_footer {
         margin-left: 9%;
         position: absolute;
+    }
+    span.category {
+        top: 34%;
+        position: absolute;
+        margin-left: -3%;
+        font-weight: bold;
+        font-size: 138%;
     }
 }
