@@ -252,6 +252,10 @@ img#icon_invesment {
 
 /**  end iconos y texto de how it work **/
 
+img.partner {
+    width: 63%;
+}
+
 h1,
 h2,
 h3,
@@ -1769,15 +1773,6 @@ h3#linktitle {
         width: -33%;
         position: relative;
         margin-left: 38%;
-    }
-    img.image1 {
-        width: 80%;
-        margin-left: -7%;
-    }
-    img.image2 {
-        width: 85%;
-        margin-left: -7%;
-        margin-top: -12%;
     }
     img.flechapartner {
         display: none;
