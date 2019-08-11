@@ -226,6 +226,7 @@ p.Skill_u {
     text-align: justify;
     font-size: 72%;
     color: #0f0944;
+    margin-left: 4%;
 }
 
 
@@ -1299,6 +1300,7 @@ h5,
 
 .image-absolute-box {
     position: relative;
+    margin-top: -23%;
 }
 
 .image-absolute-box .box {
@@ -1613,6 +1615,24 @@ h3#linktitle {
     span.category {
         margin-top: -13%;
     }
+    div#emergent {
+        display: none;
+    }
+    p.paragraf_corousel1_u {
+        text-align: justify;
+        margin: -7%;
+    }
+    .col-lg-4.aos-init.aos-animate {
+        margin-right: 14%;
+    }
+    .service1 {
+        /* padding: 4rem; */
+        /* padding: 4rem; */
+        background: #f1c7e8 !important;
+        height: 97% !important;
+        border-radius: 25% !important;
+        margin-top: 4% !important;
+    }
 }
 
 @media screen and (max-width:360px) {
@@ -1695,10 +1715,10 @@ h3#linktitle {
     .service1 {
         /* padding: 4rem; */
         /* padding: 4rem; */
-        background: #f1c7e8;
-        height: 97%;
-        border-radius: 36%;
-        margin-top: 4%;
+        background: #f1c7e8 !important;
+        height: 97% !important;
+        border-radius: 25% !important;
+        margin-top: 4% !important;
     }
     .row.row-grid {
         margin-left: 4% !important;
@@ -1710,6 +1730,13 @@ h3#linktitle {
         width: -33%;
         position: relative;
         margin-left: 27% !important;
+    }
+    div#emergent {
+        display: none;
+    }
+    p.paragraf_corousel1_u {
+        text-align: justify;
+        margin: 1%;
     }
     /** Fin de Ajustes para resolver la configuración de la resolución 1920 px**/
 }
@@ -1752,6 +1779,24 @@ h3#linktitle {
     }
     .site-logo {
         margin-left: -68%;
+    }
+    div#emergent {
+        display: none;
+    }
+    p.paragraf_corousel1_u {
+        text-align: justify;
+        margin: 1%;
+    }
+    .col-lg-4.aos-init.aos-animate {
+        margin-right: 14%;
+    }
+    .service1 {
+        /* padding: 4rem; */
+        /* padding: 4rem; */
+        background: #f1c7e8 !important;
+        height: 97% !important;
+        border-radius: 25% !important;
+        margin-top: 4% !important;
     }
 }
 
@@ -1824,6 +1869,23 @@ h3#linktitle {
     .mb-5 {
         margin-top: 2%;
     }
+    div#emergent {
+        display: none;
+    }
+    p.paragraf_corousel1_u {
+        text-align: justify;
+    }
+    .col-lg-4.aos-init.aos-animate {
+        margin-right: 14%;
+    }
+    .service1 {
+        /* padding: 4rem; */
+        /* padding: 4rem; */
+        background: #f1c7e8 !important;
+        height: 97% !important;
+        border-radius: 25% !important;
+        margin-top: 4% !important;
+    }
     /** Fin de Ajustes para resolver la configuración de la resolución 1920 px**/
 }
 
@@ -1895,6 +1957,9 @@ h3#linktitle {
     }
     img.partner {
         width: 65%;
+    }
+    div#emergent {
+        display: none;
     }
     /** Fin de Ajustes para resolver la configuración de la resolución 1920 px**/
 }
