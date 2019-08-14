@@ -147,7 +147,7 @@ img.flechapartner {
     width: 17%;
     float: right;
     margin-right: -8%;
-    margin-top: -29%;
+    margin-top: -23%;
 }
 
 
@@ -1663,6 +1663,12 @@ h3#linktitle {
         text-align: justify;
         margin: -7%;
     }
+    p.paragraf_corousel {
+        text-align: justify;
+        margin: 4%;
+        /* margin-right: 4%; */
+        font-size: 87%;
+    }
     .col-lg-4.aos-init.aos-animate {
         margin-right: 14%;
     }
@@ -1673,6 +1679,39 @@ h3#linktitle {
         height: 97% !important;
         border-radius: 25% !important;
         margin-top: 4% !important;
+    }
+    .service {
+        margin-top: -12%;
+    }
+    .testimonial {
+        margin-top: -1%;
+    }
+    .section-title {
+        color: #0f0944;
+        margin-bottom: 1.8rem;
+        font-weight: 900;
+        max-width: 450px;
+        margin-top: 6%;
+        /* text-align: justify; */
+        margin: 8%;
+    }
+    span#workTogether {
+        margin-top: 24%;
+    }
+    div#process-section {
+        margin-top: -30%;
+    }
+    .service {
+        margin-top: -12%;
+    }
+    p.paragraf_corousel2 {
+        text-align: justify;
+        margin: 9%;
+    }
+    .process {
+        width: -33%;
+        position: relative;
+        margin-left: 28% !important;
     }
 }
 
@@ -1723,6 +1762,9 @@ h3#linktitle {
     }
     p.paragraf_corousel {
         text-align: justify;
+        margin: 4%;
+        /* margin-right: 4%; */
+        font-size: 87%;
     }
     .list-unstyled {
         padding-left: 0;
@@ -1770,7 +1812,7 @@ h3#linktitle {
     .process {
         width: -33%;
         position: relative;
-        margin-left: 27% !important;
+        margin-left: 35% !important;
     }
     div#emergent {
         display: none;
@@ -1778,6 +1820,31 @@ h3#linktitle {
     p.paragraf_corousel1_u {
         text-align: justify;
         margin: 1%;
+    }
+    .testimonial {
+        margin-top: -1%;
+    }
+    .section-title {
+        color: #0f0944;
+        margin-bottom: 1.8rem;
+        font-weight: 900;
+        max-width: 450px;
+        margin-top: 6%;
+        /* text-align: justify; */
+        margin: 8%;
+    }
+    .service {
+        margin-top: -12%;
+    }
+    p.paragraf_corousel2 {
+        text-align: justify;
+        margin: 9%;
+    }
+    span#workTogether {
+        margin-top: 39%;
+    }
+    div#process-section {
+        margin-top: -27%;
     }
     /** Fin de Ajustes para resolver la configuración de la resolución 1920 px**/
 }
@@ -1838,6 +1905,31 @@ h3#linktitle {
         height: 97% !important;
         border-radius: 25% !important;
         margin-top: 4% !important;
+    }
+    .testimonial {
+        margin-top: -1%;
+    }
+    .section-title {
+        color: #0f0944;
+        margin-bottom: 1.8rem;
+        font-weight: 900;
+        max-width: 450px;
+        margin-top: 6%;
+        /* text-align: justify; */
+        margin: 8%;
+    }
+    div#process-section {
+        margin-top: -27%;
+    }
+    p.paragraf_corousel2 {
+        text-align: justify;
+        margin: 9%;
+    }
+    span#workTogether {
+        margin-top: 39%;
+    }
+    div#work-section {
+        margin-top: 1% !important;
     }
 }
 
@@ -1927,6 +2019,31 @@ h3#linktitle {
         border-radius: 25% !important;
         margin-top: 4% !important;
     }
+    .testimonial {
+        margin-top: -1%;
+    }
+    .section-title {
+        color: #0f0944;
+        margin-bottom: 1.8rem;
+        font-weight: 900;
+        max-width: 450px;
+        margin-top: 6%;
+        /* text-align: justify; */
+        margin: 8%;
+    }
+    div#process-section {
+        margin-top: -27%;
+    }
+    p.paragraf_corousel2 {
+        text-align: justify;
+        margin: 9%;
+    }
+    span#workTogether {
+        margin-top: 39%;
+    }
+    div#work-section {
+        margin-top: 3% !important;
+    }
     /** Fin de Ajustes para resolver la configuración de la resolución 1920 px**/
 }
 
@@ -2001,6 +2118,31 @@ h3#linktitle {
     }
     div#emergent {
         display: none;
+    }
+    div#border {
+        margin-top: 18%;
+    }
+    .section-title {
+        color: #0f0944;
+        margin-bottom: 1.8rem;
+        font-weight: 900;
+        max-width: 450px;
+        margin-top: 6%;
+        /* text-align: justify; */
+        margin: 8%;
+    }
+    div#work-section {
+        margin-top: -13%;
+    }
+    div#process-section {
+        margin-top: -27%;
+    }
+    p.paragraf_corousel2 {
+        text-align: justify;
+        margin: 9%;
+    }
+    span#workTogether {
+        margin-top: 39%;
     }
     /** Fin de Ajustes para resolver la configuración de la resolución 1920 px**/
 }
