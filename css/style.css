@@ -12,6 +12,18 @@ div#image {
     margin-left: 12%;
 }
 
+.owl-prev {
+    display: none;
+}
+
+.owl-next {
+    display: none;
+}
+
+img.w-100.h-107.img-fluid {
+    height: 107%;
+}
+
 p.paragraf_corousel {
     text-align: justify;
     /* margin: 0%; */
@@ -1257,6 +1269,7 @@ h5,
     font-weight: 900;
     display: block;
     margin-bottom: 1.5rem;
+    margin-left: 1%;
 }
 
 .section-title {
