@@ -1726,6 +1726,14 @@ h3#linktitle {
         font-size: 143%;
         line-height: 103%;
     }
+    p.category {
+        margin-top: 44%;
+        /* margin-left: -7%; */
+        margin-right: 18%;
+        text-align: justify;
+        font-size: 101%;
+        line-height: 125%;
+    }
 }
 
 @media screen and (max-width:360px) {
