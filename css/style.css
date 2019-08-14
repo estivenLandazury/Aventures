@@ -1867,6 +1867,9 @@ h3#linktitle {
     div#process-section {
         margin-top: -27%;
     }
+    .d-flex.align-items-center {
+        margin-left: -17% !important;
+    }
     /** Fin de Ajustes para resolver la configuración de la resolución 1920 px**/
 }
 
@@ -1951,6 +1954,9 @@ h3#linktitle {
     }
     div#work-section {
         margin-top: 1% !important;
+    }
+    .d-flex.align-items-center {
+        margin-left: -12% !important;
     }
 }
 
@@ -2064,6 +2070,9 @@ h3#linktitle {
     }
     div#work-section {
         margin-top: 3% !important;
+    }
+    .d-flex.align-items-center {
+        margin-left: -42%;
     }
     /** Fin de Ajustes para resolver la configuración de la resolución 1920 px**/
 }
