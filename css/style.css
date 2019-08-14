@@ -136,9 +136,9 @@ img.flechaportafolio {
 }
 
 img.flechaDrecha {
-    width: 17%;
+    width: 19%;
     float: right;
-    margin-top: 8%;
+    margin-top: 3%;
     /* margin-right: -9%; */
     margin-right: -7%;
 }
@@ -146,8 +146,8 @@ img.flechaDrecha {
 img.flechapartner {
     width: 17%;
     float: right;
-    margin-right: -5%;
-    margin-top: -41%;
+    margin-right: -8%;
+    margin-top: -29%;
 }
 
 
@@ -2008,8 +2008,8 @@ h3#linktitle {
     img.flechapartner {
         width: 17%;
         float: right;
-        margin-right: -5%;
-        margin-top: -41%;
+        margin-right: -6%;
+        margin-top: -35%;
     }
     div#Text_footer {
         margin-left: 9%;
