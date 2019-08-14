@@ -1870,7 +1870,7 @@ h3#linktitle {
     /** Fin de Ajustes para resolver la configuración de la resolución 1920 px**/
 }
 
-@media screen and (max-width:375px) {
+@media screen and (max-width:379px) {
     img.image1 {
         width: 80%;
         margin-left: -7%;
