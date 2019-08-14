@@ -146,10 +146,8 @@ img.flechaDrecha {
 img.flechapartner {
     width: 17%;
     float: right;
-    margin-right: -16%;
-    /* margin-right: -54%; */
-    /* position: relative; */
-    margin-top: -14%;
+    margin-right: -5%;
+    margin-top: -41%;
 }
 
 
@@ -2010,8 +2008,8 @@ h3#linktitle {
     img.flechapartner {
         width: 17%;
         float: right;
-        margin-right: -16%;
-        margin-top: -14%;
+        margin-right: -5%;
+        margin-top: -41%;
     }
     div#Text_footer {
         margin-left: 9%;
