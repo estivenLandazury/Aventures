@@ -242,6 +242,11 @@ p.Skill_u {
     margin-right: 6%;
 }
 
+img.partner {
+    width: 58% !important;
+    margin-left: 26%;
+}
+
 
 /** end  text  abive skill the team**/
 
@@ -1301,7 +1306,7 @@ h5,
 }
 
 .section-title {
-    font-size: 3rem;
+    font-size: 173%;
     color: #0f0944;
     margin-bottom: 1.8rem;
     font-weight: 900;
@@ -2209,7 +2214,7 @@ h3#linktitle {
         width: 17%;
         float: right;
         margin-right: -6%;
-        margin-top: -35%;
+        margin-top: -26%;
     }
     div#Text_footer {
         margin-left: 9%;
