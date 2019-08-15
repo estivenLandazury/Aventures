@@ -1867,7 +1867,7 @@ h3#linktitle {
         margin: 9%;
     }
     span#workTogether {
-        margin-top: 39%;
+        margin-top: 18% !important;
     }
     div#process-section {
         margin-top: -27%;
@@ -1955,7 +1955,7 @@ h3#linktitle {
         margin: 9%;
     }
     span#workTogether {
-        margin-top: 39%;
+        margin-top: 18% !important;
     }
     div#work-section {
         margin-top: 1% !important;
@@ -1965,7 +1965,7 @@ h3#linktitle {
     }
 }
 
-@media screen and (max-width:414px) {
+@media screen and (max-width:480px) {
     img.image1 {
         width: 80%;
         margin-left: -7%;
@@ -1980,7 +1980,7 @@ h3#linktitle {
     }
     .col-lg-6.mb-5 {
         text-align: center;
-        margin-top: -33%;
+        margin-top: -27%;
     }
     div#border {
         margin-top: -51%;
@@ -2071,7 +2071,7 @@ h3#linktitle {
         margin: 9%;
     }
     span#workTogether {
-        margin-top: 39%;
+        margin-top: 21% !important;
     }
     div#work-section {
         margin-top: 3% !important;
@@ -2082,7 +2082,7 @@ h3#linktitle {
     /** Fin de Ajustes para resolver la configuración de la resolución 1920 px**/
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:800px) {
     .process {
         width: -33%;
         position: relative;
@@ -2123,7 +2123,7 @@ h3#linktitle {
     }
     .list-unstyled {
         padding-left: 0;
-        margin-left: 14%;
+        /*margin-left: 14%;*/
         text-align: justify;
         list-style: none;
     }
@@ -2170,14 +2170,14 @@ h3#linktitle {
         margin-top: -13%;
     }
     div#process-section {
-        margin-top: -27%;
+        margin-top: -14%;
     }
     p.paragraf_corousel2 {
         text-align: justify;
         margin: 9%;
     }
     span#workTogether {
-        margin-top: 39%;
+        margin-top: 4%;
     }
     /** Fin de Ajustes para resolver la configuración de la resolución 1920 px**/
 }
